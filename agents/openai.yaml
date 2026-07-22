@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex History"
+  short_description: "Recover and search Codex conversation history"
+  default_prompt: "Use $codex-history to recover conversations or find the original messages about a topic."
